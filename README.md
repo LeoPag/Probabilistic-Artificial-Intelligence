@@ -1,6 +1,11 @@
 # Probabilistic-Artificial-Intelligence
 
 ## Gaussian Process Regression for ground-water pollution prediction
+
+<p align="center">
+  <img src="Images/image1.png" alt="Image" width="300">
+</p>
+
 This project consists in implementating a Gaussian Process regression applied on a real world inference problem (ground-water pollution prediction). The very large dataset yields computing problem which may be solved with the Nyström approximation of the kernel function.
 
 ## Predicting uncertainty with Bayesian Neural Networks on MNIST dataset
