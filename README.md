@@ -53,7 +53,7 @@
       Implementation of a Deep Reinforcement Learning algorithm able to learn a control policy for a lander (spaceship), by practicing on a simulator. The project required the use of Actor-Critic methods with policy gradients, in particular Rewards-to-go and Generalized Advantage Estimatation methods, both aiming at decreasing the variance of the policy gradient estimates.
     </td>
     <td>
-      <img src="Images/image4" alt="Image" width="100%">
+      <img src="Images/image4" alt="Image" width="1500">
     </td>
   </tr>
 </table>
