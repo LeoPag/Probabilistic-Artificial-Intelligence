@@ -24,7 +24,7 @@
       This project consists in implementing a Bayesian Neural Network, trained and tested on the Rotated MNIST and Fashion MNIST datasets, for class prediction with uncertainty. The training process minimizes a loss function which considers both a Cross-Entropy loss and a Kullback–Leibler divergence loss term. 
     </td>
     <td>
-      <img src="Images/image2" alt="Image" width="500">
+      <img src="Images/image2" alt="Image" width="1000">
     </td>
   </tr>
 </table>
