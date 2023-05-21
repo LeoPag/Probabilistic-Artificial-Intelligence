@@ -2,7 +2,7 @@
 
 ## Gaussian Process Regression for ground-water pollution prediction
 
-<p align="center">
+<p align="right">
   <img src="Images/image1.png" alt="Image" width="300">
 </p>
 
